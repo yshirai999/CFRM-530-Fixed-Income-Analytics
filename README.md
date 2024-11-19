@@ -2,3 +2,6 @@
 
 - This repo contains some basic codes and examples for CFRM 530.
 
+## Installation
+
+- to install the environment required to run the notebooks, run `conda env create --name CFRM530 --file=environments.yml`
