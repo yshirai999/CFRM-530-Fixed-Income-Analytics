@@ -1,1 +1,4 @@
-# Codes and examples for the Fixed Income Analytics course (CFRM 530)
+# Fixed Income Analytics (CFRM 530)
+
+- This repo contains some basic codes and examples for CFRM 530.
+
